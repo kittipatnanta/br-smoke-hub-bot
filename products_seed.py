@@ -1,0 +1,1 @@
+<FULL products_seed.py CODE INCLUDED EARLIER>
